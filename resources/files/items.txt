@@ -1,0 +1,10 @@
+B;The Firm;John Grisham
+M;PC Today;07/2017
+B;Skipping Christmas;John Grisham
+B;Nineteen Eighty-Four;George Orwell
+B;Animal Farm;George Orwell
+B;Unknown author;The Firm
+M;People;10/1996
+M;People;11/1996
+M;People;10/1996
+M;People;10/1996
